@@ -1,4 +1,4 @@
-name: Promosimar Server Image Build
+name: Hello World Image Build
 
 on:
   push:
